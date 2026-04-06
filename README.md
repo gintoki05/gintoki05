@@ -16,7 +16,7 @@
 
 ## About Me
 
-Results-driven **Full Stack & AI Developer** with **5+ years** of experience building modern, scalable web and mobile applications. Currently building enterprise-grade systems at **PT Pupuk Sriwidjaja Palembang** — including an AI-powered ITSM platform deployed across Pupuk Indonesia and all its subsidiaries.
+Results-driven **Full Stack & AI Developer** with **5+ years** of experience building modern, scalable web and mobile applications. Currently building enterprise-grade systems at a state-owned holding company — including an AI-powered ITSM platform deployed across multiple subsidiaries nationwide.
 
 - Building production AI microservices with **FastAPI**, **pgvector**, and **Indonesian NLP embeddings**
 - Cross-platform mobile apps with **React Native (Expo)** — published on Google Play Store
@@ -62,8 +62,8 @@ Results-driven **Full Stack & AI Developer** with **5+ years** of experience bui
 
 ## Featured Projects
 
-### ITSM Platform · PT Pupuk Indonesia Group
-> Enterprise IT Service Management platform deployed across Pupuk Indonesia and all subsidiaries
+### ITSM Platform
+> Enterprise IT Service Management platform deployed across a national holding company and all its subsidiaries
 
 - Modules: Ticketing (Request & Incident), Asset Management, Problem Management
 - Built AI microservice with **semantic duplicate detection**, **smart solution suggestions**, and **automated problem clustering**
