@@ -120,14 +120,13 @@ Results-driven **Full Stack & AI Developer** with **5+ years** of experience bui
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gintoki05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintoki05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=gintoki05&theme=tokyonight&hide_border=true)](https://github.com/gintoki05)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gintoki05&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gintoki05&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
