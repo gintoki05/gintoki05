@@ -6,9 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+React+Native;NestJS+%7C+FastAPI+%7C+Node.js;AI+Microservices+%7C+NLP+%7C+pgvector;Building+scalable+products+since+2016)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ajie-prastyo-24200b16b/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajieprastyo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://itsajie.vercel.app/)
+<a href="https://www.linkedin.com/in/muhammad-ajie-prastyo-24200b16b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ajieprastyo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="http://itsajie.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
@@ -101,7 +101,7 @@ Results-driven **Full Stack & AI Developer** with **5+ years** of experience bui
 - Vehicle health monitoring, fuel logs, service history, document reminders
 - Business tier for fleet management (MBG/SPPG, rental, distribution)
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ajieprastyo.montirsaku)
+<a href="https://play.google.com/store/apps/details?id=com.ajieprastyo.montirsaku" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
 
 `React Native` `Expo` `PostgreSQL` `Strapi`
 
@@ -110,7 +110,7 @@ Results-driven **Full Stack & AI Developer** with **5+ years** of experience bui
 ### Belanjoan · Online Grocery App
 > Published mobile app for online grocery shopping
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mitkonsultan.belanjoan)
+<a href="https://play.google.com/store/apps/details?id=com.mitkonsultan.belanjoan" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
 
 `React Native` `Expo` `PostgreSQL` `Strapi`
 
@@ -120,7 +120,7 @@ Results-driven **Full Stack & AI Developer** with **5+ years** of experience bui
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gintoki05&theme=tokyonight&hide_border=true)](https://github.com/gintoki05)
+<a href="https://github.com/gintoki05" target="_blank"><img src="https://streak-stats.demolab.com?user=gintoki05&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
